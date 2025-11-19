@@ -7,6 +7,9 @@ name = "pypi"
 fastapi = "*"
 uvicorn = {extras = ["standard"], version = "*"}
 python-dotenv = "*"
+langgraph = "*"
+langchain = "*"
+langchain-openai = "*"
 
 [dev-packages]
 pytest = "*"
